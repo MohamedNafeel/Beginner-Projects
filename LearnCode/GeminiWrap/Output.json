@@ -1,0 +1,79 @@
+{
+    "sdk_http_response": {
+        "headers": {
+            "x-gemini-service-tier": "standard",
+            "content-type": "application/json; charset=UTF-8",
+            "vary": "Origin, X-Origin, Referer",
+            "content-encoding": "gzip",
+            "date": "Sun, 05 Jul 2026 10:59:44 GMT",
+            "server": "scaffolding on HTTPServer2",
+            "x-xss-protection": "0",
+            "x-frame-options": "SAMEORIGIN",
+            "x-content-type-options": "nosniff",
+            "server-timing": "gfet4t7; dur=10707",
+            "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+            "transfer-encoding": "chunked"
+        },
+        "body": null
+    },
+    "candidates": [
+        {
+            "content": {
+                "parts": [
+                    {
+                        "media_resolution": null,
+                        "code_execution_result": null,
+                        "executable_code": null,
+                        "file_data": null,
+                        "function_call": null,
+                        "function_response": null,
+                        "inline_data": null,
+                        "text": "Electromagnetism is one of the four fundamental forces of nature (along with gravity, the strong nuclear force, and the weak nuclear force). It is the force responsible for all interactions between charged particles, encompassing both electricity and magnetism, and revealing them to be two inseparable aspects of the same phenomenon.\n\nHere's a breakdown of what electromagnetism is about:\n\n### 1. The Core Idea: Unification\n\nHistorically, electricity and magnetism were studied as separate phenomena.\n*   **Electricity** dealt with electric charges (protons and electrons), electric fields, currents, and voltages.\n*   **Magnetism** dealt with magnets, magnetic fields, and their effects.\n\nThe groundbreaking realization, primarily through the work of **Hans Christian \u00d8rsted**, **Michael Faraday**, and eventually unified by **James Clerk Maxwell**, was that electricity and magnetism are inextricably linked. They are two sides of the same coin:\n\n*   **Moving electric charges produce magnetic fields.** (This is why an electric current in a wire creates a magnetic field around it.)\n*   **Changing magnetic fields produce electric fields.** (This is the principle behind electric generators and transformers.)\n\n### 2. Key Concepts in Electromagnetism\n\n*   **Electric Charge:** The fundamental property of matter that causes it to experience a force when placed in an electromagnetic field. Charges come in two types: positive (+) and negative (-). Like charges repel, opposite charges attract.\n*   **Electric Field (E-field):** A region around a charged particle where other charged particles would experience a force. It points in the direction a positive test charge would move.\n*   **Magnetic Field (B-field):** A region around a magnet or a moving electric charge where magnetic forces are exerted. Magnetic field lines always form closed loops, extending from a north pole to a south pole outside a magnet, and continuing through the magnet.\n*   **Electric Current:** The flow of electric charge (usually electrons) through a conductor. Measured in Amperes (A).\n*   **Voltage (Potential Difference):** The \"push\" or \"pressure\" that drives electric current. Measured in Volts (V).\n*   **Electromagnetic Force:** The force exerted by an electromagnetic field on electrically charged particles. This force is responsible for holding atoms and molecules together, and thus for almost all chemical and biological processes.\n*   **Electromagnetic Waves:** Oscillations of electric and magnetic fields that propagate through space, even a vacuum. They carry energy and momentum. Light itself is an electromagnetic wave! The entire electromagnetic spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, all of which are types of electromagnetic waves differing only in their wavelength and frequency.\n\n### 3. Maxwell's Equations: The Unifying Theory\n\nJames Clerk Maxwell, in the 19th century, synthesized all known laws of electricity and magnetism into a set of four elegant equations. These equations not only described existing phenomena but also predicted the existence of electromagnetic waves and showed that light is one such wave. They are considered one of the greatest achievements in physics.\n\n### 4. Importance and Applications\n\nElectromagnetism governs almost every aspect of our daily lives and technological world:\n\n*   **Light and Optics:** How we see, cameras, telescopes, lasers.\n*   **Electricity Generation and Distribution:** Power plants, transformers, power lines.\n*   **Electronics:** Computers, cell phones, TVs, radios, all rely on the control of electric currents and fields.\n*   **Communication:** Radio, television, Wi-Fi, Bluetooth, satellite communication all use electromagnetic waves.\n*   **Motors and Generators:** Electric motors (converting electrical energy to mechanical) and generators (mechanical to electrical) are direct applications of electromagnetic principles.\n*   **Medical Technology:** MRI (Magnetic Resonance Imaging) uses strong magnetic fields and radio waves to create detailed images of the body. X-rays are high-energy electromagnetic waves.\n*   **Data Storage:** Hard drives, credit cards, and magnetic tapes store information using magnetic fields.\n*   **Everyday Phenomena:** The force that holds atoms together to form molecules, friction, elasticity \u2013 all are manifestations of the electromagnetic force at a microscopic level.\n\nIn essence, electromagnetism is a profound and beautiful framework that explains how charged particles interact, how energy propagates through space as light, and forms the bedrock of modern technology and our understanding of the physical world.",
+                        "thought": null,
+                        "thought_signature": null,
+                        "video_metadata": null,
+                        "tool_call": null,
+                        "tool_response": null,
+                        "part_metadata": null
+                    }
+                ],
+                "role": "model"
+            },
+            "citation_metadata": null,
+            "finish_message": null,
+            "token_count": null,
+            "finish_reason": "STOP",
+            "grounding_metadata": null,
+            "avg_logprobs": null,
+            "index": 0,
+            "logprobs_result": null,
+            "safety_ratings": null,
+            "url_context_metadata": null
+        }
+    ],
+    "create_time": null,
+    "model_version": "gemini-2.5-flash",
+    "prompt_feedback": null,
+    "response_id": "FTlKarfAObWKjuMPxJr_sA0",
+    "usage_metadata": {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 915,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 8,
+        "prompt_tokens_details": [
+            {
+                "modality": "TEXT",
+                "token_count": 8
+            }
+        ],
+        "thoughts_token_count": 1080,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 2003,
+        "traffic_type": null
+    },
+    "model_status": null,
+    "automatic_function_calling_history": [],
+    "parsed": null
+}
